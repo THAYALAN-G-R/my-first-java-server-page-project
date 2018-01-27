@@ -1,0 +1,21 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 2, 2017, 11:52:20 PM
+    Author     : Thaya
+*/
+#wrapper {
+background-image:  url("shorawujo.jpg");     
+margin: 0 auto;
+width: 1300px;
+height: 2400px;
+padding: 0;
+text-align: left;
+}
+
+#content{
+padding: 1050px 0 0 0px;    
+}
